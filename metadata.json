@@ -1,0 +1,5 @@
+{
+  "name": "Vortex Curl Visualizer",
+  "description": "An interactive physics demonstration of local rotation (curl) vs. bulk rotation in fluid dynamics, illustrating the difference between rotational and irrotational flow inside and outside a vortex.",
+  "requestFramePermissions": []
+}
